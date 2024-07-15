@@ -5,7 +5,7 @@ $Body = "Analista de TI"
 $SMTPServer = "smtp.outlook.com"
 $SMTPPort = 587
 $SMTPUsername = "quemuelrodriguesdesousa@hotmail.com"
-$SMTPPassword = "Raiane@123*"
+$SMTPPassword = "senha*"
 
 # Lista de destinatários (emails em massa)
 $EmailTo = @(
