@@ -81,7 +81,7 @@ $sendButton.Add_Click({
     $SMTPServer = "smtp.outlook.com"
     $SMTPPort = 587
     $SMTPUsername = "quemuelrodriguesdesousa@hotmail.com"
-    $SMTPPassword = "Raiane@123*"
+    $SMTPPassword = "senha*"
 
     $SMTPClient = New-Object Net.Mail.SmtpClient($SMTPServer, $SMTPPort)
     $SMTPClient.EnableSsl = $true
